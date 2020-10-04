@@ -1,6 +1,4 @@
-# Logo Recognition - Need-finding
-
-
+# Logo Recognition
 
 
 ## Abstract
